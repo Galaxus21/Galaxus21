@@ -3,7 +3,7 @@
 Computer Science undergrad at Rajiv Gandhi Institute of Petroleum Technology, Amethi, graduating April 2027.
 I build backends, interfaces, and the occasional tool that runs entirely in the browser.
 
-Part-time software work for Sangini Jewellers — billing, live metal pricing and KYC.
+Interned as a software engineer at Sangini Jewellers, working on billing, live metal pricing and KYC.
 
 Looking for software engineering internships, and new-grad roles for 2027.
 
@@ -14,9 +14,7 @@ Looking for software engineering internships, and new-grad roles for 2027.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="36" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="36" height="36" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="36" height="36" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
 
 ### Projects
@@ -25,13 +23,14 @@ Looking for software engineering internships, and new-grad roles for 2027.
 PDF password recovery that runs entirely in the browser. Build a pattern from what you remember of the
 password, and the search runs across Web Workers. No file ever leaves the device.
 
+**[EPIC: Industrial Intelligence](https://github.com/Galaxus21/epic-industrial-intelligence)**
+A plant-maintenance assistant built on FastAPI, Next.js, PostgreSQL and Qdrant. An agent answers questions
+about equipment from its maintenance records, incidents and documents. Each work order has an AI chat whose
+suggested edits are cut to what the user's role may change, and nothing is saved until the user applies them.
+
 **[Policy Q&A RAG API](https://github.com/Galaxus21/FinserveAPI)**
 A FastAPI service that answers questions about insurance policy documents, using FAISS retrieval over
 chunked policy text.
-
-**[RazorAgent Mesh](https://github.com/Galaxus21/razoragentMesh)**
-A settlement layer for AI shopping agents: an MCP server exposing catalog, negotiation and payment tools,
-with signed mandates and spending limits enforced server-side. Runs on Razorpay test-mode rails.
 
 ### Elsewhere
 
